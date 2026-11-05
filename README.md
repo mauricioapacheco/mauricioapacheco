@@ -78,7 +78,6 @@ Também possuo experiência com liderança técnica, orientação de desenvolved
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,java,dotnet,cs" alt="Tecnologias Back-end"/>
-  <img src="https://skillicons.dev/icons?i=dotnet" alt="ASP.NET / .NET"/>
 </p>
 
 ### Bancos de dados
@@ -96,7 +95,7 @@ Também possuo experiência com liderança técnica, orientação de desenvolved
 ### DevOps, sistemas e ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,windows,vscode" alt="Ferramentas e sistemas"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,windows,vscode,androidstudio" alt="Ferramentas e sistemas"/>
 </p>
 
 <p>
