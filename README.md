@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Maurício Pacheco 👋</h1>
 
 <h3 align="center">
-Analista e Desenvolvedor de Sistemas • Full Stack
+Analista e Desenvolvedor de Sistemas • Full Stack • PHP • Laravel • Vue.js • Node.js
 </h3>
 
 <p align="center">
@@ -29,10 +29,6 @@ Desenvolvedor Full Stack Sênior com mais de 23 anos de experiência em desenvol
 <a href="https://wa.me/5555996962818" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/WhatsApp-%2B55%20(55)%2099696--2818-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp +55 (55) 99696-2818"/>
 </a>
-
-</p>
-
-<p align="center">
 
 <a href="https://casadaweb.net/arquivos/vitaeMP2026.pdf" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Baixar%20Currículo-PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Baixar currículo em PDF"/>
@@ -208,10 +204,6 @@ Sistema web e mobile integrado ao ERP da empresa.
 <a href="https://wa.me/5555996962818" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/WhatsApp-%2B55%20(55)%2099696--2818-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp +55 (55) 99696-2818"/>
 </a>
-
-</p>
-
-<p align="center">
 
 <a href="https://casadaweb.net/arquivos/vitaeMP2026.pdf" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Baixar%20Currículo%20Completo-PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Baixar currículo completo em PDF"/>
