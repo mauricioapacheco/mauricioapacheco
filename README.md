@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Maurício Pacheco 👋</h1>
 
 <h3 align="center">
-Analista e Desenvolvedor de Sistemas • Full Stack • PHP • Laravel • Vue.js • Node.js
+Analista e Desenvolvedor de Sistemas • Full Stack
 </h3>
 
 <p align="center">
