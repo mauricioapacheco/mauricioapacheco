@@ -1,3 +1,4 @@
+
 <h1 align="center">Olá, eu sou Maurício Pacheco 👋</h1>
 
 <h3 align="center">
@@ -179,8 +180,8 @@ Conclusão: Março de 2024
 
 Sistema web e mobile integrado ao ERP da empresa.
 
-<a href="https://github.com/mauricio-pacheco/e-Bella" target="_blank" rel="noopener noreferrer">
-  github.com/mauricio-pacheco/e-Bella
+<a href="https://github.com/mauricioapacheco/eBella-ERP-Sales" target="_blank" rel="noopener noreferrer">
+  github.com/mauricioapacheco/eBella-ERP-Sales
 </a>
 
 ---
