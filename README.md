@@ -87,6 +87,7 @@ Também possuo experiência com liderança técnica, orientação de desenvolved
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/Firebird-EE4000?style=for-the-badge" alt="Firebird"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
 ### DevOps, sistemas e ferramentas
@@ -192,6 +193,16 @@ Aplicação desktop desenvolvida em Java Swing, com autenticação, cadastro e c
 
 <a href="https://github.com/mauricioapacheco/Java-Swing-MySQL-Desktop" target="_blank" rel="noopener noreferrer">
   github.com/mauricioapacheco/Java-Swing-MySQL-Desktop
+</a>
+
+### TicketFlow — PHP, SQLite e MongoDB
+
+Aplicação web desenvolvida em PHP para comparação de consultas SQL e NoSQL, com filtros de tickets, listagem de registros e análise de desempenho.
+
+**Tecnologias:** PHP, SQLite, MongoDB, JavaScript, HTML e CSS.
+
+<a href="https://github.com/mauricioapacheco/TicketFlow-PHP-SQLite-MongoDB" target="_blank" rel="noopener noreferrer">
+  github.com/mauricioapacheco/TicketFlow-PHP-SQLite-MongoDB
 </a>
 
 ---
