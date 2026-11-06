@@ -184,6 +184,16 @@ Sistema web e mobile integrado ao ERP da empresa.
   github.com/mauricioapacheco/eBella-ERP-Sales
 </a>
 
+### Sistema Java Desktop — Swing e MySQL
+
+Aplicação desktop desenvolvida em Java Swing, com autenticação, cadastro e consulta de registros, integrada ao MySQL via JDBC e JPA.
+
+**Tecnologias:** Java, Swing, MySQL, JDBC, JPA e NetBeans.
+
+<a href="https://github.com/mauricioapacheco/Java-Swing-MySQL-Desktop" target="_blank" rel="noopener noreferrer">
+  github.com/mauricioapacheco/Java-Swing-MySQL-Desktop
+</a>
+
 ---
 
 ## 📫 Contato
