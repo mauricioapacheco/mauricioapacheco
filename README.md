@@ -171,10 +171,14 @@ Conclusão: Março de 2024
   github.com/mauricio-pacheco/Projetos-PHP
 </a>
 
-### Projetos ASP
+### Portfólio ASP Clássico — Casa da Web (2003–2011)
 
-<a href="https://github.com/mauricio-pacheco/Projetos-ASP" target="_blank" rel="noopener noreferrer">
-  github.com/mauricio-pacheco/Projetos-ASP
+Acervo histórico com 28 projetos de sites e aplicações web desenvolvidos entre 2003 e 2011, incluindo sistemas administrativos, portais, lojas virtuais e recursos multimídia.
+
+**Tecnologias:** ASP Clássico, VBScript, PHP, HTML, CSS, JavaScript e Adobe Flash.
+
+<a href="https://github.com/mauricioapacheco/ASP-Classic-Portfolio" target="_blank" rel="noopener noreferrer">
+  github.com/mauricioapacheco/ASP-Classic-Portfolio
 </a>
 
 ### Sistema e-Bella
