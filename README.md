@@ -74,7 +74,14 @@ Também possuo experiência com liderança técnica, orientação de desenvolved
 ### Back-end
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,java,dotnet,cs" alt="Tecnologias Back-end"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,java,dotnet,cs" alt="Tecnologias Back-end"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer"/>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
 </p>
 
 ### Bancos de dados
@@ -86,7 +93,6 @@ Também possuo experiência com liderança técnica, orientação de desenvolved
 <p>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/Firebird-EE4000?style=for-the-badge" alt="Firebird"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
@@ -164,6 +170,22 @@ Conclusão: Março de 2024
 ---
 
 ## 📂 Principais projetos
+
+### Maestro da Roleta — Laravel, Vue.js, Node.js e Puppeteer
+
+Plataforma web e desktop para gerenciamento, acompanhamento e automação de operações em roleta.
+
+O sistema integra interfaces interativas, APIs REST, controle de usuários e assinaturas, CRM administrativo, serviços de automação com Puppeteer, integrações de pagamento e aplicação desktop com Electron.
+
+**Tecnologias:** PHP 8.3, Laravel 12, Vue.js 3, Node.js, Express.js, Puppeteer, Electron, Vite, JavaScript, MySQL, HTML, CSS e APIs REST.
+
+**Portfólio público:**
+
+<a href="https://github.com/mauricioapacheco/MaestroDaRoleta-Portfolio" target="_blank" rel="noopener noreferrer">
+  github.com/mauricioapacheco/MaestroDaRoleta-Portfolio
+</a>
+
+**Site oficial:** https://maestrodaroleta.vip
 
 ### Portfólio PHP — Casa da Web (2003–2011)
 
