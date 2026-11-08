@@ -1,21 +1,17 @@
 
-<h1 align="center">Olá, eu sou Maurício Pacheco 👋</h1>
+<h1 align="center">Olá, eu sou Maurício Andrade Pacheco 👋</h1>
 
 <h3 align="center">
 Analista e Desenvolvedor de Sistemas • Full Stack
 </h3>
 
 <p align="center">
-Desenvolvedor Full Stack Sênior com mais de 23 anos de experiência em desenvolvimento de sistemas web, APIs, bancos de dados e servidores Linux/Windows.
+Desenvolvedor Full Stack Sênior com mais de 24 anos de experiência em desenvolvimento de sistemas web, APIs, bancos de dados e servidores Linux/Windows.
 </p>
 
 <p align="center">
 
-<a href="https://github.com/mauricio-pacheco" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/GitHub-mauricio--pacheco-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mauricio--pacheco/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/mauricioapacheco/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Maurício%20Pacheco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
@@ -28,11 +24,11 @@ Desenvolvedor Full Stack Sênior com mais de 23 anos de experiência em desenvol
 <p align="center">
 
 <a href="https://wa.me/5555996962818" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/WhatsApp-%2B55%20(55)%2099696--2818-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp +55 (55) 99696-2818"/>
+  <img src="https://img.shields.io/badge/WhatsApp-%2B55%20(55)%2099696--2818-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 
 <a href="https://casadaweb.net/arquivos/vitaeMP2026.pdf" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Baixar%20Currículo-PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Baixar currículo em PDF"/>
+  <img src="https://img.shields.io/badge/Baixar%20Currículo-PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Baixar currículo"/>
 </a>
 
 </p>
@@ -41,7 +37,7 @@ Desenvolvedor Full Stack Sênior com mais de 23 anos de experiência em desenvol
 
 ## 👨‍💻 Sobre mim
 
-Sou Desenvolvedor PHP Full Stack Sênior com mais de **23 anos de experiência** na construção de soluções web robustas, escaláveis e de alta performance.
+Sou Desenvolvedor PHP Full Stack Sênior com mais de **24 anos de experiência** na construção de soluções web robustas, escaláveis e de alta performance.
 
 Minha experiência abrange desenvolvimento front-end e back-end, criação e integração de APIs REST, administração de bancos de dados, instalação de servidores Linux e Windows, sustentação de sistemas e modernização de aplicações legadas.
 
@@ -121,22 +117,18 @@ Também possuo experiência com liderança técnica, orientação de desenvolved
 ## 🎓 Formação acadêmica
 
 ### Mestrado em Direção Estratégica em Engenharia de Software
-
 Universidad Europea del Atlántico  
 Conclusão: Agosto de 2024
 
 ### Pós-graduação em Gestão de TI
-
 UFSM – Frederico Westphalen/RS  
 Conclusão: Julho de 2024
 
 ### Pós-graduação em Desenvolvimento de Aplicações para Dispositivos Móveis
-
 URI – Frederico Westphalen/RS  
 Conclusão: Janeiro de 2016
 
 ### Graduação em Ciência da Computação
-
 URI – Frederico Westphalen/RS  
 Conclusão: Novembro de 2011
 
@@ -145,7 +137,6 @@ Conclusão: Novembro de 2011
 ## 📖 Cursos
 
 ### Programador Full Stack
-
 SENAI / FIERGS – Panambi/RS  
 Conclusão: Março de 2024
 
@@ -154,90 +145,87 @@ Conclusão: Março de 2024
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauricio-pacheco&theme=github_dark" alt="Detalhes do perfil no GitHub"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauricioapacheco&theme=github_dark" alt="Resumo do GitHub" width="650"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mauricio-pacheco&theme=github_dark" alt="Repositórios por linguagem"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mauricio-pacheco&theme=github_dark" alt="Linguagens com mais commits"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mauricioapacheco&theme=github_dark" alt="Linguagens por repositório" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mauricioapacheco&theme=github_dark" alt="Linguagens por commits" width="400"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mauricio-pacheco&theme=github_dark" alt="Estatísticas do GitHub"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mauricio-pacheco&theme=github_dark&utcOffset=-3" alt="Horários produtivos"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mauricioapacheco&theme=github_dark" alt="Estatísticas do GitHub" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mauricioapacheco&theme=github_dark&utcOffset=-3" alt="Atividade por horário" width="400"/>
 </p>
+
+<details>
+<summary>📈 Ver gráfico detalhado de atividade</summary>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mauricioapacheco&theme=github-compact" alt="Gráfico de atividade no GitHub"/>
+</p>
+
+</details>
 
 ---
 
 ## 📂 Principais projetos
 
-### Maestro da Roleta — Laravel, Vue.js, Node.js e Puppeteer
+### 🎯 Maestro da Roleta
 
-Plataforma web e desktop para gerenciamento, acompanhamento e automação de operações em roleta.
+Plataforma Full Stack com CRM, APIs, automação de operações e aplicações web e desktop.
 
-O sistema integra interfaces interativas, APIs REST, controle de usuários e assinaturas, CRM administrativo, serviços de automação com Puppeteer, integrações de pagamento e aplicação desktop com Electron.
+**Stack:** Laravel, Vue.js, Node.js, Puppeteer, Electron e MySQL.
 
-**Tecnologias:** PHP 8.3, Laravel 12, Vue.js 3, Node.js, Express.js, Puppeteer, Electron, Vite, JavaScript, MySQL, HTML, CSS e APIs REST.
+[Ver portfólio](https://github.com/mauricioapacheco/MaestroDaRoleta-Portfolio) • [Site oficial](https://maestrodaroleta.vip)
 
-**Portfólio público:**
+### 🎧 Felpano Player
 
-<a href="https://github.com/mauricioapacheco/MaestroDaRoleta-Portfolio" target="_blank" rel="noopener noreferrer">
-  github.com/mauricioapacheco/MaestroDaRoleta-Portfolio
-</a>
+Player web com biblioteca MP3 local, autenticação, playlists e interface responsiva.
 
-**Site oficial:** https://maestrodaroleta.vip
+**Stack:** Laravel, Vue.js, Inertia.js, Tailwind CSS e MySQL.
 
-### Portfólio PHP — Casa da Web (2003–2011)
+[Ver projeto](https://github.com/mauricioapacheco/Felpano-Player-Portfolio)
 
-Acervo histórico com **100 projetos de sites, sistemas e aplicações web**, desenvolvidos entre 2003 e 2011, reunindo código-fonte, documentação técnica individual e fluxogramas.
+### 🐘 Portfólio PHP — Casa da Web (2003–2011)
 
-Os projetos abrangem sistemas administrativos, portais de notícias, lojas virtuais, catálogos de produtos, sites institucionais, provedores de internet, rádios online, aplicações comerciais e soluções personalizadas para diferentes segmentos.
+Acervo histórico de **100 projetos**, incluindo sistemas comerciais, portais e aplicações web.
 
-O portfólio documenta a evolução das tecnologias web e a experiência adquirida no desenvolvimento de soluções reais ao longo desse período.
+**Stack:** PHP, MySQL, JavaScript, HTML, CSS e AJAX.
 
-**Tecnologias:** PHP, MySQL, HTML, CSS, JavaScript, AJAX e Adobe Flash.
+[Ver projetos](https://github.com/mauricioapacheco/PHP-Projects-Portfolio)
 
-<a href="https://github.com/mauricioapacheco/PHP-Projects-Portfolio" target="_blank" rel="noopener noreferrer">
-  github.com/mauricioapacheco/PHP-Projects-Portfolio
-</a>
+### 🌐 Portfólio ASP Clássico — Casa da Web (2003–2011)
 
-### Portfólio ASP Clássico — Casa da Web (2003–2011)
+Acervo histórico com **28 projetos** de sites, sistemas e aplicações web.
 
-Acervo histórico com 28 projetos de sites e aplicações web desenvolvidos entre 2003 e 2011, incluindo sistemas administrativos, portais, lojas virtuais e recursos multimídia.
+**Stack:** ASP Clássico, VBScript, HTML, CSS e JavaScript.
 
-**Tecnologias:** ASP Clássico, VBScript, PHP, HTML, CSS, JavaScript e Adobe Flash.
+[Ver projetos](https://github.com/mauricioapacheco/ASP-Classic-Portfolio)
 
-<a href="https://github.com/mauricioapacheco/ASP-Classic-Portfolio" target="_blank" rel="noopener noreferrer">
-  github.com/mauricioapacheco/ASP-Classic-Portfolio
-</a>
-
-### Sistema e-Bella
+### 🛒 Sistema e-Bella
 
 Sistema web e mobile integrado ao ERP da empresa.
 
-<a href="https://github.com/mauricioapacheco/eBella-ERP-Sales" target="_blank" rel="noopener noreferrer">
-  github.com/mauricioapacheco/eBella-ERP-Sales
-</a>
+[Ver projeto](https://github.com/mauricioapacheco/eBella-ERP-Sales)
 
-### Sistema Java Desktop — Swing e MySQL
+### ☕ Sistema Java Desktop
 
-Aplicação desktop desenvolvida em Java Swing, com autenticação, cadastro e consulta de registros, integrada ao MySQL via JDBC e JPA.
+Aplicação desktop com autenticação, cadastros e integração com banco de dados.
 
-**Tecnologias:** Java, Swing, MySQL, JDBC, JPA e NetBeans.
+**Stack:** Java, Swing, MySQL, JDBC e JPA.
 
-<a href="https://github.com/mauricioapacheco/Java-Swing-MySQL-Desktop" target="_blank" rel="noopener noreferrer">
-  github.com/mauricioapacheco/Java-Swing-MySQL-Desktop
-</a>
+[Ver projeto](https://github.com/mauricioapacheco/Java-Swing-MySQL-Desktop)
 
-### TicketFlow — PHP, SQLite e MongoDB
+### 🎫 TicketFlow
 
-Aplicação web desenvolvida em PHP para comparação de consultas SQL e NoSQL, com filtros de tickets, listagem de registros e análise de desempenho.
+Aplicação para consultas e análise de dados relacionais e não relacionais.
 
-**Tecnologias:** PHP, SQLite, MongoDB, JavaScript, HTML e CSS.
+**Stack:** PHP, SQLite, MongoDB e JavaScript.
 
-<a href="https://github.com/mauricioapacheco/TicketFlow-PHP-SQLite-MongoDB" target="_blank" rel="noopener noreferrer">
-  github.com/mauricioapacheco/TicketFlow-PHP-SQLite-MongoDB
-</a>
+[Ver projeto](https://github.com/mauricioapacheco/TicketFlow-PHP-SQLite-MongoDB)
+
+<!-- Próximo projeto: Casa da Web ERP. Incluir após a publicação. -->
 
 ---
 
@@ -249,7 +237,7 @@ Aplicação web desenvolvida em PHP para comparação de consultas SQL e NoSQL, 
   <img src="https://img.shields.io/badge/E--mail-mauricio@casadaweb.net-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
 </a>
 
-<a href="https://www.linkedin.com/in/mauricio--pacheco/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/mauricioapacheco/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Maurício%20Pacheco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
@@ -258,11 +246,11 @@ Aplicação web desenvolvida em PHP para comparação de consultas SQL e NoSQL, 
 <p align="center">
 
 <a href="https://wa.me/5555996962818" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/WhatsApp-%2B55%20(55)%2099696--2818-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp +55 (55) 99696-2818"/>
+  <img src="https://img.shields.io/badge/WhatsApp-%2B55%20(55)%2099696--2818-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 
 <a href="https://casadaweb.net/arquivos/vitaeMP2026.pdf" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Baixar%20Currículo%20Completo-PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Baixar currículo completo em PDF"/>
+  <img src="https://img.shields.io/badge/Baixar%20Currículo%20Completo-PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Baixar currículo"/>
 </a>
 
 </p>
