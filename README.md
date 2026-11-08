@@ -27,7 +27,7 @@ Desenvolvedor Full Stack Sênior com mais de 24 anos de experiência em desenvol
   <img src="https://img.shields.io/badge/WhatsApp-%2B55%20(55)%2099696--2818-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 
-<a href="https://casadaweb.net/arquivos/vitaeMP2026.pdf" target="_blank" rel="noopener noreferrer">
+<a href="https://casadaweb.net/arquivos/vitae_novembro_2026.pdf" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Baixar%20Currículo-PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Baixar currículo"/>
 </a>
 
@@ -260,7 +260,7 @@ Aplicação para consultas e análise de dados relacionais e não relacionais.
   <img src="https://img.shields.io/badge/WhatsApp-%2B55%20(55)%2099696--2818-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 
-<a href="https://casadaweb.net/arquivos/vitaeMP2026.pdf" target="_blank" rel="noopener noreferrer">
+<a href="https://casadaweb.net/arquivos/vitae_novembro_2026.pdf" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Baixar%20Currículo%20Completo-PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Baixar currículo"/>
 </a>
 
