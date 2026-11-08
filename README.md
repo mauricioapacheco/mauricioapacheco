@@ -171,7 +171,19 @@ Conclusão: Março de 2024
 
 ## 📂 Principais projetos
 
-### 🎯 Maestro da Roleta
+### <img src="assets/casadaweb-icon.png" width="24" height="24" alt="Casa da Web"> Casa da Web ERP — Projeto Principal
+
+**Projeto piloto em desenvolvimento contínuo**, com plataforma SaaS multi-tenant para gestão empresarial, vendas, PDV, estoque, financeiro, comissões, loja virtual e relatórios.
+
+**Stack:** Laravel 12, Vue.js 3, Inertia.js, Tailwind CSS, Vite e MySQL.
+
+**Site oficial online • Código-fonte privado**
+
+[Ver portfólio público](https://github.com/mauricioapacheco/CasaDaWebERP-Portfolio) • [Site oficial](https://casadaweb.net)
+
+
+
+### <img src="assets/maestro-icon.png" width="24" height="24" alt="Maestro da Roleta"> Maestro da Roleta
 
 Plataforma Full Stack com CRM, APIs, automação de operações e aplicações web e desktop.
 
@@ -225,7 +237,6 @@ Aplicação para consultas e análise de dados relacionais e não relacionais.
 
 [Ver projeto](https://github.com/mauricioapacheco/TicketFlow-PHP-SQLite-MongoDB)
 
-<!-- Próximo projeto: Casa da Web ERP. Incluir após a publicação. -->
 
 ---
 
