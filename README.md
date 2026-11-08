@@ -165,10 +165,18 @@ Conclusão: Março de 2024
 
 ## 📂 Principais projetos
 
-### Projetos PHP
+### Portfólio PHP — Casa da Web (2003–2011)
 
-<a href="https://github.com/mauricio-pacheco/Projetos-PHP" target="_blank" rel="noopener noreferrer">
-  github.com/mauricio-pacheco/Projetos-PHP
+Acervo histórico com **100 projetos de sites, sistemas e aplicações web**, desenvolvidos entre 2003 e 2011, reunindo código-fonte, documentação técnica individual e fluxogramas.
+
+Os projetos abrangem sistemas administrativos, portais de notícias, lojas virtuais, catálogos de produtos, sites institucionais, provedores de internet, rádios online, aplicações comerciais e soluções personalizadas para diferentes segmentos.
+
+O portfólio documenta a evolução das tecnologias web e a experiência adquirida no desenvolvimento de soluções reais ao longo desse período.
+
+**Tecnologias:** PHP, MySQL, HTML, CSS, JavaScript, AJAX e Adobe Flash.
+
+<a href="https://github.com/mauricioapacheco/PHP-Projects-Portfolio" target="_blank" rel="noopener noreferrer">
+  github.com/mauricioapacheco/PHP-Projects-Portfolio
 </a>
 
 ### Portfólio ASP Clássico — Casa da Web (2003–2011)
