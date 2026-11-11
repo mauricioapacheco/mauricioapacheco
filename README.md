@@ -80,6 +80,20 @@ Também possuo experiência com liderança técnica, orientação de desenvolved
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
 </p>
 
+### Tecnologias históricas — Aplicações RIA
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft-Silverlight-5A2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Silverlight"/>
+  <img src="https://img.shields.io/badge/Adobe-Flash-FC3D21?style=for-the-badge&logo=adobeflashplayer&logoColor=white" alt="Adobe Flash"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/XAML-Interface-0B5394?style=for-the-badge" alt="XAML"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-2010-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio 2010"/>
+</p>
+
+Tecnologias relacionadas ao contexto histórico de aplicações ricas para Internet (RIA), abordadas no projeto acadêmico de graduação de 2011.
+
 ### Bancos de dados
 
 <p>
@@ -181,8 +195,6 @@ Conclusão: Março de 2024
 
 [Ver portfólio público](https://github.com/mauricioapacheco/CasaDaWebERP-Portfolio) • [Site oficial](https://casadaweb.net)
 
-
-
 ### ⚖️ TJ Digital — Sistema de Gestão Processual (.NET 10)
 
 Projeto demonstrativo e fictício de gestão processual para Tribunal de Justiça, com cadastro e consulta de processos, movimentações processuais, audiências, dashboard e API REST.
@@ -198,6 +210,18 @@ Plataforma Full Stack com CRM, APIs, automação de operações e aplicações w
 **Stack:** Laravel, Vue.js, Node.js, Puppeteer, Electron e MySQL.
 
 [Ver portfólio](https://github.com/mauricioapacheco/MaestroDaRoleta-Portfolio) • [Site oficial](https://maestrodaroleta.vip)
+
+### 🚌 Travel Bus — TCC em Silverlight (2011)
+
+Projeto acadêmico de graduação em Ciência da Computação, desenvolvido em 2011, com foco na consulta de viagens rodoviárias utilizando tecnologias RIA.
+
+O acervo preserva a monografia original, artigo acadêmico, apresentação e imagens históricas do sistema.
+
+**Stack:** Microsoft Silverlight, C#, XAML, WCF RIA Services, SQL Server e Visual Studio 2010.
+
+**Projeto acadêmico histórico • Documentação original preservada**
+
+[Ver TCC e documentação](https://github.com/mauricioapacheco/TCC-Silverlight-Viagens-Rodoviarias)
 
 ### 🎧 Felpano Player
 
@@ -244,7 +268,6 @@ Aplicação para consultas e análise de dados relacionais e não relacionais.
 **Stack:** PHP, SQLite, MongoDB e JavaScript.
 
 [Ver projeto](https://github.com/mauricioapacheco/TicketFlow-PHP-SQLite-MongoDB)
-
 
 ---
 
