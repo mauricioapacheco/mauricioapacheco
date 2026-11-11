@@ -37,7 +37,7 @@ Desenvolvedor Full Stack Sênior com mais de 24 anos de experiência em desenvol
 
 ## 👨‍💻 Sobre mim
 
-Sou Desenvolvedor PHP Full Stack Sênior com mais de **24 anos de experiência** na construção de soluções web robustas, escaláveis e de alta performance.
+Sou Desenvolvedor Full Stack Sênior com mais de **24 anos de experiência** na construção de soluções web robustas, escaláveis e de alta performance.
 
 Minha experiência abrange desenvolvimento front-end e back-end, criação e integração de APIs REST, administração de bancos de dados, instalação de servidores Linux e Windows, sustentação de sistemas e modernização de aplicações legadas.
 
@@ -182,6 +182,14 @@ Conclusão: Março de 2024
 [Ver portfólio público](https://github.com/mauricioapacheco/CasaDaWebERP-Portfolio) • [Site oficial](https://casadaweb.net)
 
 
+
+### ⚖️ TJ Digital — Sistema de Gestão Processual (.NET 10)
+
+Projeto demonstrativo e fictício de gestão processual para Tribunal de Justiça, com cadastro e consulta de processos, movimentações processuais, audiências, dashboard e API REST.
+
+**Stack:** C#, ASP.NET Core 10, Entity Framework Core, SQLite e SQL Server (opcional).
+
+[Ver projeto](https://github.com/mauricioapacheco/TJDigital-DotNet-Portfolio)
 
 ### <img src="assets/maestro-icon.png" width="24" height="24" alt="Maestro da Roleta"> Maestro da Roleta
 
